@@ -1,0 +1,1 @@
+const example = 'Hello World';
